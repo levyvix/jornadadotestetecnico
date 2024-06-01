@@ -36,9 +36,16 @@ Este projeto é parte do desafio Ambev para transformar dados de vendas de cerve
    pip install -r requirements.txt
    ```
 
-3. **Rode o Projeto:**
-   - Execute o script principal para iniciar o processo de ETL. Este script irá ler os dados do arquivo JSON, realizar as transformações necessárias e salvar os dados em um arquivo CSV.
+3. **Rode o Projeto Exploratório:**
+   - Arquivo com o código de desenvolvimento.
 
    ```bash
    jupyter lab
+   ```
+
+4. **Rode o Projeto Exploratório:**
+   - Execute o script principal para iniciar o processo de ETL. Este script irá ler os dados do arquivo JSON, realizar as transformações necessárias e salvar os dados em um arquivo CSV.
+
+   ```bash
+   python pipeline.py
    ```
