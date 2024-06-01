@@ -1,0 +1,6 @@
+[
+    {"estado": "SP", "vendas": 15000, "cerveja": "Pilsen", "carnaval": 2023},
+    {"estado": "RJ", "vendas": 12000, "cerveja": "IPA", "carnaval": 2023},
+    {"estado": "MG", "vendas": 8000, "cerveja": "Pilsen", "carnaval": 2023},
+    {"estado": "BA", "vendas": 9500, "cerveja": "Stout", "carnaval": 2023}
+]
